@@ -1,0 +1,21 @@
+# AI Travel Agent - Dependencies
+
+# Core Framework
+streamlit>=1.28.0
+
+# LangChain
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-google-genai>=1.0.0
+
+# Environment & Config
+python-dotenv>=1.0.0
+
+# HTTP Requests (for Weather API)
+requests>=2.31.0
+
+# Data Validation
+pydantic>=2.0.0
+
+# Date/Time handling
+python-dateutil>=2.8.2
